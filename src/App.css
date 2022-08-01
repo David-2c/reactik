@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+}
+
+.title- {
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+}
+
+.part-1 {
+  display: flex;
+  font-family: cursive;
+  justify-content: center;
+  padding: 10px;
+}
+
+.but {
+  display: flex;
+  margin: auto;
+  height: 50px;
+  width: 100px;
+}
